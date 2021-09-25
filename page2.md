@@ -3,10 +3,3 @@ Edited again again and again
 
 **Bold text**
 
-## Boom
-
-### Boom
-
-#### Boom
-
-##### shake the room!
